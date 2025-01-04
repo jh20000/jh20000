@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
 <!--
 **jh20000/jh20000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
