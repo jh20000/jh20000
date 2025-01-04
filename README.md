@@ -1,16 +1,22 @@
 ## Hi there 👋
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
-<!--
-**jh20000/jh20000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is JooHyoung Chae, I'm interested in data analysis, AI engineering 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technical Skills 
+---
+Language & development Tools
+
+
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-red?logo=pytorch&logoColor=white&style=flat-square" alt="PyTorch"/> <img src="https://img.shields.io/badge/SQL-blue?logo=mysql&logoColor=white&style=flat-square" alt="SQL"/> 
+
+
+<img src="https://img.shields.io/badge/Jupyter-orange?logo=jupyter&logoColor=white&style=flat-square" alt="Jupyter Notebook"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+
+
+
+
+
+
+
+
