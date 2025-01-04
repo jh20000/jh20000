@@ -4,7 +4,7 @@ My name is JooHyoung Chae, I'm interested in data analysis, AI engineering
 
 Technical Skills 
 ---
-Language & development Tools
+Language & Development Tools
 
 
 
