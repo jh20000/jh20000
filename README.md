@@ -1,10 +1,22 @@
 ## Hi there 👋
 
-My name is JooHyoung Chae, I'm interested in data analysis, AI engineering 
+I'm JooHyoung Chae, passionate about data analysis (DA) and data science (DS).  
+I enjoy deriving insights from data and developing models that address real-world challenges.
+
+---
+
+## 📫 Contact
+
+📧 wngud3842@naver.com
+
+
+
+
+
+---
 
 ## 🛠 Technical Skills
 
----
 
 ### 💪 Main Tools
 
