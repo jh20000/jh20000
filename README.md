@@ -70,7 +70,6 @@ I enjoy deriving insights from data and developing models that address real-worl
 | 2024 | 국토부 비즈니스 아이디어 공모전     | 국토교통부   | 정책 기획          | 팀원        | 
 | 2024 | DACON 유전자 발현 다중회귀 대회     | DACON        | 컴퓨터비전 / 회귀 | 팀원        |
 | 2025 | 환경부 초미세먼지 분석 공모전       | 환경부       | 데이터 분석        | 팀원        |
-| 2025 | LG AIMERS AI 실험 비교 프로젝트     | LG           | NLP / Fine-tuning | 팀원        | 
 
 
 ---
