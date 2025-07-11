@@ -46,9 +46,34 @@ I enjoy deriving insights from data and developing models that address real-worl
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 
+---
+
+## 📂 Projects
+
+| 연도 | 분야            | 프로젝트명                                                  | 역할        | 결과 / 성과              | 링크 |
+|------|------------------|-------------------------------------------------------------|-------------|---------------------------|------|
+| 2024 | 텍스트 분석      | 뉴스 크롤링 기반 환경 이슈 분석 (WordCloud, LDA)           | 팀원        | 텍스트 기반 이슈 분류      | -    |
+| 2024 | 다변량 통계 분석        | RFM 기반 고객군 분류 및 마케팅 전략 도출                   | 팀장        | 고객 세그먼트별 전략 제시  | -    |
+| 2025 | 감성 분석 / 캡스톤 | 에어비앤비 리뷰 기반 AI 감성 점수 산출 (AI Score)         | 팀장        | 사용자 중심 평점체계 설계  | -    |
+| 2025 | 데이터베이스     | ERD 작성 및 SQL 기반 데이터베이스 구축                     | 개인       | DDL, DML 구현              | -    |
+| 2025 | 자연어처리(NLP)  | 사전학습 기반 Fine-Tuning vs PEFT (LoRA, Adaptor 등) 비교 실험 | 개인        | 성능·효율 비교 보고서 작성 | -    |
 
 
 
+---
+
+## 🏆 Competitions
+
+| 연도 | 공모전명                            | 주최기관     | 분야              | 역할        | 결과 / 성과             |
+|------|-------------------------------------|--------------|-------------------|-------------|--------------------------|
+| 2023 | KML Challenge 2023F                | 전공  | 머신러닝           | 팀원        | 전체 3등 / 분반 2등       |
+| 2024 | 국토부 비즈니스 아이디어 공모전     | 국토교통부   | 정책 기획          | 팀원        | 제출 완료                |
+| 2024 | DACON 유전자 발현 다중회귀 대회     | DACON        | 컴퓨터비전 / 회귀 | 팀원        | 제출 완료                |
+| 2025 | 환경부 초미세먼지 분석 공모전       | 환경부       | 데이터 분석        | 팀원        | 보고서 제출              |
+| 2025 | LG AIMERS AI 실험 비교 프로젝트     | LG           | NLP / Fine-tuning | 팀원        | 진행 중 (8월 1일 시작)   |
+
+
+---
 
 ## 📜 Certification
 
