@@ -11,6 +11,8 @@ I enjoy deriving insights from data and developing models that address real-worl
 
 ---
 
+
+
 ## 🛠 Technical Skills
 
 
@@ -45,6 +47,16 @@ I enjoy deriving insights from data and developing models that address real-worl
 ### 🤝 Collaboration Tools
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
+
+---
+
+
+## 🎓 Education
+
+| 기간              | 학교         | 전공                          | 비고       |
+|-------------------|--------------|-------------------------------|------------|
+| 2020.03 ~ 2025.08 | 국민대학교   | AI빅데이터융합경영학과 (본전공) | 재학   |
+| 2020.03 ~ 2025.08 | 국민대학교   | 데이터사이언스 (부전공, 소프트웨어융합대학) | 재학  |
 
 ---
 
