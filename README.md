@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm JooHyoung Chae, passionate about data analysis (DA) and data science (DS).  
+I'm JooHyoung, interest in data analysis/data science  
 I enjoy deriving insights from data and developing models that address real-world challenges.
 
 ---
@@ -8,10 +8,6 @@ I enjoy deriving insights from data and developing models that address real-worl
 ## 📫 Contact
 
 📧 wngud3842@naver.com
-
-
-
-
 
 ---
 
