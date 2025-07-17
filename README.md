@@ -41,7 +41,7 @@ I enjoy deriving insights from data and developing models that address real-worl
 | 기간              | 학교         | 전공                          | 비고       |
 |-------------------|--------------|-------------------------------|------------|
 | 2020.03 ~  | 국민대학교   | AI빅데이터융합경영학과 (본전공) | 재학   |
-| 2020.03 ~  | 국민대학교   | 데이터사이언스 (부전공, 소프트웨어융합대학) | 재학  |
+| 2025.03 ~  | 국민대학교   | 소프트웨어융합대학(부전공) | 재학  |
 
 ---
 
@@ -52,8 +52,8 @@ I enjoy deriving insights from data and developing models that address real-worl
 | 2024 | NLP / 텍스트 마이닝 | 뉴스 크롤링 기반 환경 이슈 분석 (WordCloud, LDA)           | 팀원        | 토픽 기반 이슈 분류         | -    |
 | 2024 | 고객 분석 / 군집화 | RFM 기반 고객군 분류 및 마케팅 전략 도출                   | 팀장        | 고객 세그먼트별 전략 제시   | -    |
 | 2025 | 감성 분석 / EDA   | 에어비앤비 리뷰 기반 AI 감성 점수 산출 (AI Score)         | 팀장        | 사용자 중심 평점체계 설계   | -    |
-| 2025 | 데이터베이스 / SQL | ERD 작성 및 SQL 기반 데이터베이스 구축                     | 팀원        | 요구사항 기반 DB 구조 설계  | -    |
-| 2025 | 딥러닝 / 모델 경량화 | Fine-Tuning vs PEFT (LoRA, Adaptor 등) 비교 실험           | 팀원        | 성능·효율 비교 보고서 작성  | -    |
+| 2025 | 데이터베이스 / SQL | ERD 작성 및 SQL 기반 데이터베이스 구축                     | 개인        | 요구사항 기반 DB 구조 설계  | -    |
+| 2025 | 딥러닝 / 모델 경량화 | Fine-Tuning vs PEFT (LoRA, Adaptor 등) 비교 실험           | 개인       | 성능·효율 비교 보고서 작성  | -    |
 
 
 ---
