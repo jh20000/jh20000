@@ -54,6 +54,8 @@ I enjoy deriving insights from data and developing models that address real-worl
 | 2025 | 감성 분석 / EDA   | 에어비앤비 리뷰 기반 AI 감성 점수 산출 (AI Score)         | 팀장        |  -    |
 | 2025 | 데이터베이스 / SQL | ERD 작성 및 SQL 기반 데이터베이스 구축                     | 개인        |  -    |
 | 2025 | 딥러닝 / 모델 경량화 | Fine-Tuning vs PEFT (LoRA, Adaptor 등) 비교 실험           | 개인       | -    |
+| 2025 | 생산운영관리 수요예측 프로젝트 | 미래의 수요예측 컴퍼      | 개인       | -    |
+
 
 
 ---
@@ -62,9 +64,9 @@ I enjoy deriving insights from data and developing models that address real-worl
 
 | 연도 | 공모전명                            | 주최기관     | 분야              | 역할        | 
 |------|-------------------------------------|--------------|-------------------|-------------|
-| 2023 | KML Challenge 2023F                | 전공 교과  | 머신러닝           | 팀장        |
-| 2024 | 국토부 비즈니스 아이디어 공모전     | 국토교통부   | 데이터 분석및 딥러닝 기반의 정책 기획       | 팀원        |        
-| 2024 | DACON 유전자 발현 다중회귀 대회     | DACON        | 컴퓨터비전 / 회귀 | 팀원        |
+| 2023 | KML Challenge 2023F                | 전공 교과  | ML        | 팀장        |
+| 2024 | 국토부 비즈니스 아이디어 공모전     | 국토교통부   | DA,Model Architectureh(구현X)       | 팀원        |        
+| 2024 | DACON 유전자 발현 다중회귀 성능공모전     | DACON        | Vision/DL | 팀원        |
 | 2025 | 환경부 초미세먼지 분석 공모전       | 환경부       | 데이터 분석및 Qgis 시각화     | 팀원        | 
 
 ---
