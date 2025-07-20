@@ -49,6 +49,7 @@ I enjoy deriving insights from data and developing models that address real-worl
 
 | 연도 | 분야             | 프로젝트명                                                  | 역할        | 링크 |
 |------|------------------|-------------------------------------------------------------|-------------|------|
+| 2023 | ML            | 설문응답예측 competiton                                       | 팀장        | -    |
 | 2024 | NLP / 텍스트 마이닝 | 뉴스 크롤링 기반 환경 이슈 분석 (WordCloud, LDA)           | 팀장       |  -    |
 | 2024 | 고객 분석 / 군집화 | RFM 기반 고객군 분류 및 마케팅 전략 도출                   | 팀장        |  -    |
 | 2025 | 감성 분석 / EDA   | 에어비앤비 리뷰 기반 AI 감성 점수 산출 (AI Score)         | 팀장        |  -    |
@@ -64,7 +65,6 @@ I enjoy deriving insights from data and developing models that address real-worl
 
 | 연도 | 공모전명                            | 주최기관     | 분야              | 역할        | 
 |------|-------------------------------------|--------------|-------------------|-------------|
-| 2023 | KML Challenge 2023F                | 전공 교과  | ML        | 팀장        |
 | 2024 | 국토부 비즈니스 아이디어 공모전     | 국토교통부   | DA,Model Architectureh(구현X)       | 팀원        |        
 | 2024 | DACON 유전자 발현 다중회귀 성능공모전     | DACON        | Vision/DL | 팀원        |
 | 2025 | 환경부 초미세먼지 분석 공모전       | 환경부       | 데이터 분석및 Qgis 시각화     | 팀원        | 
