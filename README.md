@@ -83,4 +83,9 @@ I enjoy deriving insights from data and developing models that address real-worl
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wngud3842)](https://solved.ac/wngud3842/)
 
+## Study
+
+| 스터디명 | 연도 | 역할 |
+|--------|--------|------|
+| ML Study | 2023.07~08 |스터디원|
 
