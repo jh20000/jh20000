@@ -71,11 +71,16 @@ I enjoy deriving insights from data and developing models that address real-worl
 
 ---
 
+
+
 ## 📜 Certification
 
 | 자격명 | 취득일 | 주관 |
 |--------|--------|------|
 | ADsP (데이터분석 준전문가) | 2024.03.22 | 한국데이터산업진흥원 |
 | SQLD (SQL 개발자) | 2025.04.04 | 한국데이터산업진흥원 |
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wngud3842)](https://solved.ac/wngud3842/)
 
 
