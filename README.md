@@ -55,7 +55,7 @@ I enjoy deriving insights from data and developing models that address real-worl
 | 2025 | 감성 분석 / EDA   | 에어비앤비 리뷰 기반 AI 감성 점수 산출 (AI Score)         | 팀장        |  -    |
 | 2025 | 데이터베이스 / SQL | ERD 작성 및 SQL 기반 데이터베이스 구축                     | 개인        |  -    |
 | 2025 | 딥러닝 / 모델 경량화 | Fine-Tuning vs PEFT (LoRA, Adaptor 등) 비교 실험           | 개인       | -    |
-| 2025 | 생산운영관리 수요예측 프로젝트 | 미래의 수요예측 컴퍼      | 개인       | -    |
+| 2025 | Demand Forcasting  | 미래 수요 예측 컴퍼      | 개인       | -    |
 
 
 
