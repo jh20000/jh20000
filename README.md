@@ -36,7 +36,7 @@ I enjoy deriving insights from data and developing models that address real-worl
 ---
 
 
-## 🎓 Education
+## 🎓 Career
 
 | 기간              | 학교         | 전공                          | 비고       |
 |-------------------|--------------|-------------------------------|------------|
@@ -44,6 +44,21 @@ I enjoy deriving insights from data and developing models that address real-worl
 | 2025.03 ~  | 국민대학교   | 소프트웨어융합대학(부전공) | 재학  |
 
 ---
+
+ ## 🏆 Awards
+
+| 대회명 [수상명] | 주관기관 |시상기관 |
+|------------------|-----------|------|
+| 🥉 2025 LG AIMERS 7th Competition (식음업장 메뉴 수요 예측) [3위] | LG AI Research | 한경닷컴 |
+
+
+
+
+
+
+
+---
+
 
 ## 📂 Projects
 
