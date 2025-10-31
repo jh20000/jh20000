@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm JooHyoung, interest in data analysis/data science  
+I'm JooHyoung, interest in DA/DS
 I enjoy deriving insights from data and developing models that address real-world challenges.
 
 ---
