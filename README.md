@@ -33,58 +33,7 @@ I enjoy deriving insights from data and developing models that address real-worl
 ---
 ### 🤝 Collaboration Tools
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
-
----
-
-
-## 🎓 Career
-
-| 기간              | 학교         | 전공                          | 비고       |
-|-------------------|--------------|-------------------------------|------------|
-| 2020.03 ~  | 국민대학교   | AI빅데이터융합경영학과 (본전공) | 재학   |
-| 2025.03 ~  | 국민대학교   | 소프트웨어융합대학(부전공) | 재학  |
-
----
-
- ## 🏆 Awards
-
-| 대회명 [수상명] | 주관기관 |시상기관 |
-|------------------|-----------|------|
-| 🥉 2025 LG AIMERS 7th Competition (식음업장 메뉴 수요 예측) [3위] | LG AI Research | 한경닷컴 |
-
-
-
-
-
-
-
----
-
-
-## 📂 Projects
-
-| 연도 | 분야             | 프로젝트명                                                  | 역할        | 링크 |
-|------|------------------|-------------------------------------------------------------|-------------|------|
-| 2023 | ML            | 설문응답예측 competiton                                       | 팀장        | -    |
-| 2024 | NLP / 텍스트 마이닝 | 뉴스 크롤링 기반 환경 이슈 분석 (WordCloud, LDA)           | 팀장       |  -    |
-| 2024 | 고객 분석 / 군집화 | RFM 기반 고객군 분류 및 마케팅 전략 도출                   | 팀장        |  -    |
-| 2025 | 감성 분석 / EDA   | 에어비앤비 리뷰 기반 AI 감성 점수 산출 (AI Score)         | 팀장        |  -    |
-| 2025 | 데이터베이스 / SQL | ERD 작성 및 SQL 기반 데이터베이스 구축                     | 개인        |  -    |
-| 2025 | 딥러닝 / 모델 경량화 | Fine-Tuning vs PEFT (LoRA, Adaptor 등) 비교 실험           | 개인       | -    |
-| 2025 | Demand Forcasting  | 미래 수요 예측 컴퍼      | 개인       | -    |
-
-
-
----
-
-## 🏆 Competitions
-
-| 연도 | 공모전명                            | 주최기관     | 분야              | 역할        | 
-|------|-------------------------------------|--------------|-------------------|-------------|
-| 2024 | 국토부 비즈니스 아이디어 공모전     | 국토교통부   | DA,Model Architectureh(구현X)       | 팀원        |        
-| 2024 | DACON 유전자 발현 다중회귀 성능공모전     | DACON        | Vision/DL | 팀원        |
-| 2025 | 환경부 초미세먼지 분석 공모전       | 환경부       | 데이터 분석및 Qgis 시각화     | 팀원        | 
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=whit장        | 
 
 ---
 
