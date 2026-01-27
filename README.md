@@ -82,13 +82,13 @@ I enjoy deriving insights from data and developing models that address real-worl
 
 ## 🏆 Competitions
 
-| 연도 | 공모전명                            | 주최기관     | 분야              | 역할        | 
-|------|-------------------------------------|--------------|-------------------|-------------|
-| 2024 | 국토부 비즈니스 아이디어 공모전     | 국토교통부   | DA,Model Architectureh(구현X)       | 팀원        |        
-| 2024 | DACON 유전자 발현 다중회귀 성능공모전     | DACON        | Vision/DL | 팀원        |
-| 2025 | 환경부 초미세먼지 분석 공모전       | 환경부       | 데이터 분석및 Qgis 시각화     | 팀원        | 
-| 2025 | 2025 LG AIMERS 7th Competition 예선      | LG AI Research       | Demand Forcasting     |  팀장      | 
-| 2025 | 2025 LG AIMERS 7th Competition 본선     | LG AI Research      | Demand Forcasting     | 팀장       | 
+| 연도 | 공모전명                            | 주최기관     | 분야              | 역할        |  결과   |
+|------|-------------------------------------|--------------|-------------------|-------------|-------------|
+| 2024 | 국토부 비즈니스 아이디어 공모전     | 국토교통부   | DA,Model Architectureh(구현X)       | 팀원        |        |
+| 2024 | DACON 유전자 발현 다중회귀 성능공모전     | DACON        | Vision/DL | 팀원        |      41위/266팀     |
+| 2025 | 환경부 초미세먼지 분석 공모전       | 환경부       | 데이터 분석및 Qgis 시각화     | 팀원        |  |
+| 2025 | 2025 LG AIMERS 7th Competition 예선      | LG AI Research       | Demand Forcasting     |  팀장      | 4위/187팀 |
+| 2025 | 2025 LG AIMERS 7th Competition 본선     | LG AI Research      | Demand Forcasting     | 팀장       | 3위 (우수상)|
 
 
 ---
