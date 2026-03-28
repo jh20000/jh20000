@@ -5,11 +5,8 @@ I'm JooHyoung, interest in DA/DS
 
 I enjoy deriving insights from data and developing models that address real-world challenges.
 
----
 
-## 📫 Contact
 
-📧 wngud3842@naver.com
 
 ---
 
