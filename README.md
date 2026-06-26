@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-I'm JooHyoung, interest in DA/DS
+
+I’m JooHyoung, a Data Science & AI enthusiast.
 
 
-I enjoy deriving insights from data and developing models that address real-world challenges.
+Building projects around data-driven systems, AI Agents, and LLM-based applications.
 
 
 
